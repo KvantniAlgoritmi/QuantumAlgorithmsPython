@@ -21,7 +21,7 @@ If you use [Quantum Algorithms in Python]() in your research, please cite the fo
   title="{Quantum Algorithms in Python}",
   author={{\v{C}}i{\v{c}}i{\'{c}}, Slobodan and },
   year={2024},
-  url={},
+  url={https://github.com/KvantniAlgoritmi/QuantumAlgorithmsPython.git},
 }
 ```
 
