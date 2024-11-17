@@ -14,7 +14,7 @@
 
 
 ## Reference
-If you use [Quantum Algorithms in Python]() in your research, please cite the following this repository:
+If you use [Quantum Algorithms in Python]() in your research, please cite the this repository:
 
 ```
 @article{qs_quantumalgos_python,
